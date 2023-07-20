@@ -1,6 +1,6 @@
 # testingBasico
 Clase 18 </br>
-NEWSLETTER
-Method: Post
-Api para una Newslatter
-Suscripción de un correo
+NEWSLETTER  </br>
+Method: Post  </br>
+* Api para una Newslatter  </br>
+* Suscripción de un correo
